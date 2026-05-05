@@ -127,7 +127,11 @@ Aplikasi dideploy sebagai **Streamlit web app** menggunakan Docker di **Hugging 
 - Hasil klasifikasi penyakit beserta confidence per kelas
 - Rekomendasi penanganan per jenis penyakit
 
+<<<<<<< HEAD:README_CornLeafDisease.md
 🔗 **Live App:** [Lihat di Hugging Face Spaces](https://huggingface.co/)
+=======
+🔗 **Live App:** [Lihat di Hugging Face Spaces](https://huggingface.co/spaces/rezha000/corn_leaf_disease_detection)
+>>>>>>> f5bc2d9dc5e0c694ec2ac33ccf07f29701dd0a53:README.md
 
 ---
 
