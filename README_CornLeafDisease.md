@@ -127,7 +127,6 @@ Aplikasi dideploy sebagai **Streamlit web app** menggunakan Docker di **Hugging 
 - Hasil klasifikasi penyakit beserta confidence per kelas
 - Rekomendasi penanganan per jenis penyakit
 
-🔗 **Live App:** [Lihat di Hugging Face Spaces](https://huggingface.co/) *(update link sesuai repo kamu)*
 
 ---
 
